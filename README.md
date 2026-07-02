@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Tarek 👋
 
-<!--
-**tareknahas85-star/tareknahas85-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Cloud & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I build practical Android apps that solve real problems, and outside of that I'm into cloud infrastructure, automation, and CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- Android development: Kotlin, Android SDK, WebView-based apps
+- - Cloud & DevOps: Kubernetes, CI/CD pipelines, Infrastructure as Code, PowerShell automation
+  - - Bilingual — Arabic and English
+   
+    - ### Featured project
+    - **Hadiqati (my rooftop garden app)** — an Android app that helps identify plants from a photo, track a rooftop garden, and get care reminders. Arabic-first, RTL-supported UI.
+   
+    - ### Reach me
+    - tareknahas85@gmail.com
+   
+    - 
