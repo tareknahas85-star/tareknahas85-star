@@ -1,16 +1,14 @@
 ## Hi, I'm Tarek 👋
 
-Android Developer | Cloud & DevOps Enthusiast
-
-I build practical Android apps that solve real problems, and outside of that I'm into cloud infrastructure, automation, and CI/CD.
+Cloud & DevOps guy. Most of my time goes into Kubernetes, CI/CD pipelines, Infrastructure as Code and PowerShell automation. On the side I build Android apps for fun.
 
 ### What I work with
-- Android development: Kotlin, Android SDK, WebView-based apps
-- Cloud & DevOps: Kubernetes, CI/CD pipelines, Infrastructure as Code, PowerShell automation
-- Bilingual — Arabic and English
+- Cloud & DevOps: Kubernetes, CI/CD, Infrastructure as Code, PowerShell automation
+- Android (hobby): Kotlin, Android SDK, WebView based apps
+- Arabic and English
 
-### Featured project
-**Hadiqati (my rooftop garden app)** — an Android app that helps identify plants from a photo, track a rooftop garden, and get care reminders. Arabic-first, RTL-supported UI.
+### Side project I like
+**Hadiqati (my rooftop garden app)**: snap a photo of a plant to identify it, keep track of your rooftop garden and get care reminders.
 
 ### Reach me
 tareknahas85@gmail.com
