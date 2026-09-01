@@ -1,0 +1,11 @@
+# GitHub Actions Workflow Template
+# Public — General CI/CD template (no secrets, no private data)
+name: General CI
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check environment
+        run: echo "Public CI check complete — no secrets needed."
