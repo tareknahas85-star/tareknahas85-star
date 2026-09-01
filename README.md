@@ -1,43 +1,33 @@
-## أهلاً، أنا طارق 👋
+# 👋 Hi, I'm Tarek Nahas
 
-شغلي الأساسي Cloud & DevOps — Kubernetes، CI/CD، Infrastructure as Code، وPowerShell automation. على الجنب ببني تطبيقات أندرويد للمتعة والحاجة.
-
-### بشتغل فيه
-- **Cloud & DevOps:** Kubernetes، CI/CD، Infrastructure as Code، PowerShell automation
-- **Android (هواية):** Kotlin، Android SDK، WebView
-- عربي وإنكليزي
-
-### مشاريع
-
-| المشروع | شو هو |
-|---|---|
-| [beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian) | رقابة أبوية لأندرويد — تطبيق أهل/طفل متزامن |
-| [hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android) | تمييز نباتات السطوح من صورة وتذكيرات عناية |
-| [block-number-android](https://github.com/tareknahas85-star/block-number-android) | حظر مكالمات مزعجة لأندرويد |
-| [portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard) | دليل بناء نظام تشغيل محمول على SD Card |
-
-### وين تلاقيني
-tareknahas85@gmail.com
+☁️ **Cloud & DevOps Engineer** based in 🇸🇦 Saudi Arabia
 
 ---
 
-## Hi, I'm Tarek 👋
+## 🌱 About Me
 
-Cloud & DevOps by trade — most of my time goes into Kubernetes, CI/CD pipelines, Infrastructure as Code and PowerShell automation. On the side I build Android apps for fun and for actual use.
+- 🔭 Passionate about cloud-native technologies, automation, and operational excellence
+- 🌐 Focused on building secure, compliant, and resilient cloud platforms
+- 💡 Always learning — currently exploring new ways to improve cloud operations
 
-### What I work with
-- **Cloud & DevOps:** Kubernetes, CI/CD, Infrastructure as Code, PowerShell automation
-- **Android (hobby):** Kotlin, Android SDK, WebView-based apps
-- Arabic and English
+## 🛠️ Tech & Tools I Work With
 
-### Projects
+- **Cloud:** Google Cloud Platform (GCP)
+- **Containers & Orchestration:** Kubernetes, Docker
+- **IaC & Automation:** Terraform, Bash, Linux
+- **Operating Systems:** Linux (Ubuntu), Windows
 
-| Project | What it is |
-|---|---|
-| [beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian) | Parental control app for Android — paired parent/child mode |
-| [hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android) | Rooftop garden plant ID and care reminders |
-| [block-number-android](https://github.com/tareknahas85-star/block-number-android) | Spam call blocking for Android |
-| [portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard) | Build guide for a full portable OS on an SD card |
+## 🌐 Connect with Me
 
-### Reach me
-tareknahas85@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-nahas-669322382/)
+
+## 💬 Ask Me About
+
+- GCP fundamentals & best practices
+- Linux system administration
+- Automation and scripting
+- DevOps culture and workflows
+
+---
+
+⭐️ *Thanks for visiting my profile!*
