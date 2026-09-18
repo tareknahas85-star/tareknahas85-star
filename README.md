@@ -17,9 +17,16 @@ I help companies move their systems to the cloud, keep them running, and make th
 
 Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
 
-### About the apps on this page
+### My work here
 
-Most projects here are small Android apps. I build them in my free time, for fun. My paid work is cloud and DevOps.
+These are ready to use, and they are the kind of work I do for clients:
+
+- **[gcp-landing-zone-terraform](https://github.com/tareknahas85-star/gcp-landing-zone-terraform)** builds a clean base on Google Cloud: folders, projects, network, and permissions
+- **[k8s-deploy-starter](https://github.com/tareknahas85-star/k8s-deploy-starter)** is everything one app needs to run on Kubernetes, with a testing and a production setup
+- **[powershell-ops-toolkit](https://github.com/tareknahas85-star/powershell-ops-toolkit)** is scripts for daily server work: health reports, backups, certificate checks
+- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** turns an SD card into a full Linux computer you carry in your pocket
+
+The Android apps on this page are a hobby. I build them in my free time.
 
 ### Contact me
 
@@ -49,9 +56,16 @@ I am open for freelance work.
 
 Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
 
-### عن التطبيقات في هذه الصفحة
+### أعمالي هنا
 
-معظم المشاريع هنا تطبيقات أندرويد صغيرة. أبنيها في وقت فراغي، كهواية. أما عملي المدفوع فهو الكلاود و DevOps.
+هذه جاهزة للاستخدام، وهي نوع العمل الذي أقوم به للعملاء:
+
+- **[gcp-landing-zone-terraform](https://github.com/tareknahas85-star/gcp-landing-zone-terraform)** يبني أساساً نظيفاً على Google Cloud: مجلدات ومشاريع وشبكة وصلاحيات
+- **[k8s-deploy-starter](https://github.com/tareknahas85-star/k8s-deploy-starter)** كل ما يحتاجه تطبيق واحد ليعمل على Kubernetes، مع بيئة اختبار وبيئة إنتاج
+- **[powershell-ops-toolkit](https://github.com/tareknahas85-star/powershell-ops-toolkit)** سكربتات لعمل السيرفرات اليومي: تقارير صحة، ونسخ احتياطي، وفحص الشهادات
+- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** يحوّل كرت SD إلى كمبيوتر لينكس كامل تحمله في جيبك
+
+أما تطبيقات الأندرويد في هذه الصفحة فهي هواية. أبنيها في وقت فراغي.
 
 ### للتواصل معي
 
