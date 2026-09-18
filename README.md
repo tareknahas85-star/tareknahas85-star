@@ -17,16 +17,21 @@ I help companies move their systems to the cloud, keep them running, and make th
 
 Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
 
-### My work here
+### My main projects
 
-These are ready to use, and they are the kind of work I do for clients:
+Things I built and still work on:
+
+- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** turns a 128GB SD card into a full Linux computer you carry in your pocket. A real Ubuntu install that starts on almost any machine, with a locked part of the card for your files.
+- **[beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian)** is a parental control app for Android. One app, two modes, parent and child. App time limits, call filtering, safe places, location and an SOS button. The two phones talk through your own Firebase database, so nothing goes to anyone else.
+- **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** is an app for rooftop gardens. Take a photo of a plant and it tells you what it is, gives care tips, and reminds you when to water.
+
+### Ready to use setups
+
+Complete working setups you can copy for your own project:
 
 - **[gcp-landing-zone-terraform](https://github.com/tareknahas85-star/gcp-landing-zone-terraform)** builds a clean base on Google Cloud: folders, projects, network, and permissions
 - **[k8s-deploy-starter](https://github.com/tareknahas85-star/k8s-deploy-starter)** is everything one app needs to run on Kubernetes, with a testing and a production setup
 - **[powershell-ops-toolkit](https://github.com/tareknahas85-star/powershell-ops-toolkit)** is scripts for daily server work: health reports, backups, certificate checks
-- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** turns an SD card into a full Linux computer you carry in your pocket
-
-The Android apps on this page are a hobby. I build them in my free time.
 
 ### Contact me
 
@@ -56,16 +61,21 @@ I am open for freelance work.
 
 Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
 
-### أعمالي هنا
+### مشاريعي الأساسية
 
-هذه جاهزة للاستخدام، وهي نوع العمل الذي أقوم به للعملاء:
+أشياء بنيتها وما زلت أعمل عليها:
+
+- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** يحوّل كرت SD بحجم 128 جيجا إلى كمبيوتر لينكس كامل تحمله في جيبك. نظام أوبونتو حقيقي يقلع على أي جهاز تقريباً، مع جزء مقفل من الكرت لملفاتك.
+- **[beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian)** تطبيق رقابة أبوية لأندرويد. تطبيق واحد بوضعين، أهل وطفل. حدود وقت للتطبيقات، وفلترة مكالمات، وأماكن آمنة، وموقع، وزر استغاثة. الهاتفان يتصلان عبر قاعدة بيانات Firebase الخاصة بك، فلا شيء يذهب إلى أحد غيرك.
+- **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** تطبيق لحدائق السطوح. تصوّر النبتة فيخبرك ما هي، ويعطيك نصائح عناية، ويذكّرك بموعد السقاية.
+
+### إعدادات جاهزة للاستخدام
+
+إعدادات كاملة وشغّالة تستطيع نسخها لمشروعك:
 
 - **[gcp-landing-zone-terraform](https://github.com/tareknahas85-star/gcp-landing-zone-terraform)** يبني أساساً نظيفاً على Google Cloud: مجلدات ومشاريع وشبكة وصلاحيات
 - **[k8s-deploy-starter](https://github.com/tareknahas85-star/k8s-deploy-starter)** كل ما يحتاجه تطبيق واحد ليعمل على Kubernetes، مع بيئة اختبار وبيئة إنتاج
 - **[powershell-ops-toolkit](https://github.com/tareknahas85-star/powershell-ops-toolkit)** سكربتات لعمل السيرفرات اليومي: تقارير صحة، ونسخ احتياطي، وفحص الشهادات
-- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** يحوّل كرت SD إلى كمبيوتر لينكس كامل تحمله في جيبك
-
-أما تطبيقات الأندرويد في هذه الصفحة فهي هواية. أبنيها في وقت فراغي.
 
 ### للتواصل معي
 
