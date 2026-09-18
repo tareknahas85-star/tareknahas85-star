@@ -1,33 +1,65 @@
-# 👋 Hi, I'm Tarek Nahas
+## In English
 
-☁️ **Cloud & DevOps Engineer** based in 🇸🇦 Saudi Arabia
+# Hi, I'm Tarek Nahas
+
+I am a freelance cloud and DevOps engineer. I work with clients in the Gulf.
+
+I help companies move their systems to the cloud, keep them running, and make the repeated work happen by itself.
+
+### What I can do for you
+
+- Build your cloud setup on Google Cloud from zero
+- Move your servers and apps from old machines to the cloud
+- Write scripts that do the repeated jobs for you
+- Run your apps inside containers with Docker and Kubernetes
+- Set up and fix Linux and Windows servers
+- Write clear and simple guides, so your team knows how everything works
+
+### Tools I use
+
+Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
+
+### About the apps on this page
+
+Most projects here are small Android apps. I build them in my free time, for fun. My paid work is cloud and DevOps.
+
+### Contact me
+
+I am open for freelance work.
+
+- LinkedIn: [tarek-nahas](https://www.linkedin.com/in/tarek-nahas-669322382/)
+- Email: tareknahas85@gmail.com
 
 ---
 
-## 🌱 About Me
+## بالعربي
 
-- 🔭 Passionate about cloud-native technologies, automation, and operational excellence
-- 🌐 Focused on building secure, compliant, and resilient cloud platforms
-- 💡 Always learning — currently exploring new ways to improve cloud operations
+# مرحباً، أنا طارق نحاس
 
-## 🛠️ Tech & Tools I Work With
+أعمل بشكل حر (Freelance) في مجال الكلاود و DevOps، مع عملاء في دول الخليج.
 
-- **Cloud:** Google Cloud Platform (GCP)
-- **Containers & Orchestration:** Kubernetes, Docker
-- **IaC & Automation:** Terraform, Bash, Linux
-- **Operating Systems:** Linux (Ubuntu), Windows
+أساعد الشركات على نقل أنظمتها إلى الكلاود، وتشغيلها بشكل مستقر، وجعل الأعمال المتكررة تتم بشكل تلقائي.
 
-## 🌐 Connect with Me
+### ماذا أستطيع أن أقدّم لك
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-nahas-669322382/)
+- بناء بيئة عملك على Google Cloud من الصفر
+- نقل السيرفرات والتطبيقات من الأجهزة القديمة إلى الكلاود
+- كتابة سكربتات تنفّذ الأعمال المتكررة بدلاً عنك
+- تشغيل تطبيقاتك داخل حاويات باستخدام Docker و Kubernetes
+- إعداد وإصلاح سيرفرات Linux و Windows
+- كتابة أدلة واضحة وبسيطة، ليعرف فريقك طريقة عمل كل شيء
 
-## 💬 Ask Me About
+### الأدوات التي أعمل بها
 
-- GCP fundamentals & best practices
-- Linux system administration
-- Automation and scripting
-- DevOps culture and workflows
+Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
 
----
+### عن التطبيقات في هذه الصفحة
 
-⭐️ *Thanks for visiting my profile!*
+معظم المشاريع هنا تطبيقات أندرويد صغيرة. أبنيها في وقت فراغي، كهواية. أما عملي المدفوع فهو الكلاود و DevOps.
+
+### للتواصل معي
+
+متاح لاستقبال مشاريع حرة.
+
+- LinkedIn: [tarek-nahas](https://www.linkedin.com/in/tarek-nahas-669322382/)
+- البريد: tareknahas85@gmail.com
