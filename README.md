@@ -1,5 +1,3 @@
-## In English
-
 # Hi, I'm Tarek Nahas
 
 I am a freelance cloud and DevOps engineer. I work with clients in the Gulf.
@@ -31,8 +29,6 @@ I am open for freelance work.
 - Email: tareknahas85@gmail.com
 
 ---
-
-## بالعربي
 
 # مرحباً، أنا طارق نحاس
 
