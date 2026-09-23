@@ -1,31 +1,15 @@
-# Hi, I'm Tarek Nahas
+# I'm Tarek
 
-I build small apps and tools for everyday problems.
+I make little apps that fix stuff that annoys me.
 
-### My projects
+### Stuff I made
 
-- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** turns a 128GB SD card into a full Linux computer you carry in your pocket. A real Ubuntu install that starts on almost any machine, with a locked part of the card for your files.
-- **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** is an app for rooftop gardens. Take a photo of a plant and it tells you what it is, gives care tips, and reminds you when to water.
-- **[block-number-android](https://github.com/tareknahas85-star/block-number-android)** blocks calls from numbers you did not save, with a spam list that updates itself and rules for whole number groups.
+- **[beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian)** — keep an eye on your kid's phone. See what they're on, block apps, set bedtime, get a ping if they leave school. Same app on both phones, one code links them. The kid always sees it's on — it's not sneaky.
+- **[block-number-android](https://github.com/tareknahas85-star/block-number-android)** — kills calls from numbers you never saved. Has a spam list and lets you block whole number ranges. No more random spam calls.
+- **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** — snap a photo of a plant, it tells you what it is, how to keep it alive, and pokes you when it's time to water. Made it for my rooftop garden.
+- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** — turn a 128GB SD card into a whole Linux computer you carry around. Real Ubuntu, boots on almost anything, with a locked spot for your files.
 
-### Contact me
+### Say hi
 
 - LinkedIn: [tarek-nahas](https://www.linkedin.com/in/tarek-nahas-669322382/)
 - Email: tareknahas85@gmail.com
-
----
-
-# مرحباً، أنا طارق نحاس
-
-أبني تطبيقات وأدوات صغيرة لمشاكل الحياة اليومية.
-
-### مشاريعي
-
-- **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** يحوّل كرت SD بحجم 128 جيجا إلى كمبيوتر لينكس كامل تحمله في جيبك. نظام أوبونتو حقيقي يقلع على أي جهاز تقريباً، مع جزء مقفل من الكرت لملفاتك.
-- **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** تطبيق لحدائق السطوح. تصوّر النبتة فيخبرك ما هي، ويعطيك نصائح عناية، ويذكّرك بموعد السقاية.
-- **[block-number-android](https://github.com/tareknahas85-star/block-number-android)** يحظر المكالمات من الأرقام غير المحفوظة عندك، مع قائمة أرقام مزعجة تتحدث تلقائياً وقواعد لمجموعات أرقام كاملة.
-
-### للتواصل معي
-
-- LinkedIn: [tarek-nahas](https://www.linkedin.com/in/tarek-nahas-669322382/)
-- البريد: tareknahas85@gmail.com
