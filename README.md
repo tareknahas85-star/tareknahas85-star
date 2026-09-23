@@ -1,21 +1,6 @@
 # Hi, I'm Tarek Nahas
 
-I am a freelance cloud and DevOps engineer. I work with clients in the Gulf.
-
-I help companies move their systems to the cloud, keep them running, and make the repeated work happen by itself.
-
-### What I can do for you
-
-- Build your cloud setup on Google Cloud from zero
-- Move your servers and apps from old machines to the cloud
-- Write scripts that do the repeated jobs for you
-- Run your apps inside containers with Docker and Kubernetes
-- Set up and fix Linux and Windows servers
-- Write clear and simple guides, so your team knows how everything works
-
-### Tools I use
-
-Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
+I build small apps and tools for everyday problems.
 
 ### My projects
 
@@ -25,8 +10,6 @@ Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHu
 
 ### Contact me
 
-I am open for freelance work.
-
 - LinkedIn: [tarek-nahas](https://www.linkedin.com/in/tarek-nahas-669322382/)
 - Email: tareknahas85@gmail.com
 
@@ -34,22 +17,7 @@ I am open for freelance work.
 
 # مرحباً، أنا طارق نحاس
 
-أعمل بشكل حر (Freelance) في مجال الكلاود و DevOps، مع عملاء في دول الخليج.
-
-أساعد الشركات على نقل أنظمتها إلى الكلاود، وتشغيلها بشكل مستقر، وجعل الأعمال المتكررة تتم بشكل تلقائي.
-
-### ماذا أستطيع أن أقدّم لك
-
-- بناء بيئة عملك على Google Cloud من الصفر
-- نقل السيرفرات والتطبيقات من الأجهزة القديمة إلى الكلاود
-- كتابة سكربتات تنفّذ الأعمال المتكررة بدلاً عنك
-- تشغيل تطبيقاتك داخل حاويات باستخدام Docker و Kubernetes
-- إعداد وإصلاح سيرفرات Linux و Windows
-- كتابة أدلة واضحة وبسيطة، ليعرف فريقك طريقة عمل كل شيء
-
-### الأدوات التي أعمل بها
-
-Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHub Actions
+أبني تطبيقات وأدوات صغيرة لمشاكل الحياة اليومية.
 
 ### مشاريعي
 
@@ -58,8 +26,6 @@ Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHu
 - **[block-number-android](https://github.com/tareknahas85-star/block-number-android)** يحظر المكالمات من الأرقام غير المحفوظة عندك، مع قائمة أرقام مزعجة تتحدث تلقائياً وقواعد لمجموعات أرقام كاملة.
 
 ### للتواصل معي
-
-متاح لاستقبال مشاريع حرة.
 
 - LinkedIn: [tarek-nahas](https://www.linkedin.com/in/tarek-nahas-669322382/)
 - البريد: tareknahas85@gmail.com
