@@ -20,7 +20,6 @@ Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHu
 ### My projects
 
 - **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** turns a 128GB SD card into a full Linux computer you carry in your pocket. A real Ubuntu install that starts on almost any machine, with a locked part of the card for your files.
-- **[beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian)** is a parental control app for Android. One app, two modes, parent and child. App time limits, call filtering, safe places, location and an SOS button. The two phones talk through your own Firebase database, so nothing goes to anyone else.
 - **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** is an app for rooftop gardens. Take a photo of a plant and it tells you what it is, gives care tips, and reminds you when to water.
 - **[block-number-android](https://github.com/tareknahas85-star/block-number-android)** blocks calls from numbers you did not save, with a spam list that updates itself and rules for whole number groups.
 
@@ -55,7 +54,6 @@ Google Cloud, Terraform, Kubernetes, Docker, Linux, Bash, PowerShell, Git, GitHu
 ### مشاريعي
 
 - **[portable-os-sdcard](https://github.com/tareknahas85-star/portable-os-sdcard)** يحوّل كرت SD بحجم 128 جيجا إلى كمبيوتر لينكس كامل تحمله في جيبك. نظام أوبونتو حقيقي يقلع على أي جهاز تقريباً، مع جزء مقفل من الكرت لملفاتك.
-- **[beaver-guardian](https://github.com/tareknahas85-star/beaver-guardian)** تطبيق رقابة أبوية لأندرويد. تطبيق واحد بوضعين، أهل وطفل. حدود وقت للتطبيقات، وفلترة مكالمات، وأماكن آمنة، وموقع، وزر استغاثة. الهاتفان يتصلان عبر قاعدة بيانات Firebase الخاصة بك، فلا شيء يذهب إلى أحد غيرك.
 - **[hadiqati-android](https://github.com/tareknahas85-star/hadiqati-android)** تطبيق لحدائق السطوح. تصوّر النبتة فيخبرك ما هي، ويعطيك نصائح عناية، ويذكّرك بموعد السقاية.
 - **[block-number-android](https://github.com/tareknahas85-star/block-number-android)** يحظر المكالمات من الأرقام غير المحفوظة عندك، مع قائمة أرقام مزعجة تتحدث تلقائياً وقواعد لمجموعات أرقام كاملة.
 
