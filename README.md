@@ -16,6 +16,8 @@ I explain my projects on YouTube, in Levantine Arabic: **[TaNa Lab](https://www.
 
 - [Alto AI: full walkthrough](https://youtu.be/1pAgZwKZ9tk)
 - [Alto AI: feature by feature (7 episodes)](https://www.youtube.com/playlist?list=PLcNiveD7O_pU)
+- [Osborne OS: full walkthrough](https://www.youtube.com/playlist?list=PLKVCo2bD6tZ0) · [step by step](https://www.youtube.com/playlist?list=PLXL-Sy6MwrZQ)
+- [Hadiqati: full walkthrough](https://www.youtube.com/playlist?list=PLZdO7ODf-1TU) · [step by step](https://www.youtube.com/playlist?list=PLFeR9aold_Xg)
 
 ### Say hi
 
